@@ -1,0 +1,51 @@
+[
+  {
+    "name": "jeff",
+    "age": 8,
+    "nationality": "american",
+    "brother": "no",
+    "sister": "no"
+  },
+  {
+    "name": "bob",
+    "age": 16,
+    "nationality": "american",
+    "brother": "no",
+    "sister": "no"
+  },
+  {
+    "name": "vishwa",
+    "age": 12,
+    "nationality": "american",
+    "brother": "yes",
+    "sister": "no"
+  },
+  {
+    "name": "king",
+    "age": 33,
+    "nationality": "siberian",
+    "brother": "no",
+    "sister": "yes"
+  },
+  {
+    "name": "harry potter",
+    "age": 12,
+    "nationality": "european",
+    "brother": "no",
+    "sister": "no"
+  },
+  {
+    "name": "hermione granger",
+    "age": 12,
+    "nationality": "european",
+    "brother": "no",
+    "sister": "no"
+  },
+  {
+    "name": "dumbledor",
+    "age": 150,
+    "nationality": "european",
+    "brother": "yes",
+    "sister": "yes"
+  }
+]
